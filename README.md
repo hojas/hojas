@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-
+- 🚀 I'm a full stack developer.
 - 🔭 I’m currently working on JavaScript/TypeScript.
+- 🌱 I’m currently learning Go.
 
 <!--
 - 🌱 I’m currently learning ...
