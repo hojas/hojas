@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- I'm a full stack developer.
-- I’m currently working on JavaScript/TypeScript.
+- I'm a web developer.
 
 <!--
 - 🚀 I'm a full stack developer.
