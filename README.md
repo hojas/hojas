@@ -14,11 +14,9 @@
 - ⚡ Fun fact: ...
 -->
 
-<!--
 ## Tech I use 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,ts,vue,nuxt,react,next,sass,tailwind,jest,webpack,vite,nodejs,nest,prisma,docker&theme=light)](https://skillicons.dev)
--->
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,react,next,vite,nodejs,docker&theme=light)](https://skillicons.dev)
 
 ## My stats 🔭
 
