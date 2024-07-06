@@ -16,7 +16,7 @@
 
 ## Tech I use 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,react,next,nodejs,webpack,vite,docker,nest,prisma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,react,next,nodejs,nest,prisma,webpack,rollup,vite,docker&theme=light)](https://skillicons.dev)
 
 ## My stats 🔭
 
